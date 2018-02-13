@@ -15,7 +15,14 @@
     },
     "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "com.dongwha.test02"
+    },
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "com.dongwha.test02"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.dongwha.test02"
+    }
+  }
 }

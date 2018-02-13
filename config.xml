@@ -18,7 +18,6 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -30,4 +29,5 @@
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <engine name="android" spec="^7.0.0" />
     <engine name="ios" spec="^4.5.4" />
+    <plugin name="cordova-plugin-advanced-http" spec="^1.10.0" />
 </widget>
