@@ -15,7 +15,7 @@ var app = {
 
   // Update DOM on a Received Event
   receivedEvent: function(id) {
-
+    navigator.splashscreen.hide();
     console.log('Received Event: ' + id);
   }
 };
