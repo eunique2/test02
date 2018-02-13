@@ -1,2 +1,3 @@
-token key : 63dae2a74682db4fe5f54a52e6e63ed74c77bbe0
-gist id : a49d15406035390c075943f7a1ecb73f 
+gist token key : 63dae2a74682db4fe5f54a52e6e63ed74c77bbe0
+auth token key : ff3a4c7bed7726718917a198cd90de2a409c11f0
+gist id : a49d15406035390c075943f7a1ecb73f
