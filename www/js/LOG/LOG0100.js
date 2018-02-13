@@ -10,7 +10,7 @@ var app = {
   // 'pause', 'resume', etc.
   onDeviceReady: function() {
     this.receivedEvent('deviceready');
-    alert("1000");
+
   },
 
   // Update DOM on a Received Event

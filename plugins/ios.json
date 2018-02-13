@@ -13,10 +13,10 @@
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.dongwha.test02"
     },
-    "cordova-plugin-splashscreen": {
+    "cordova-plugin-advanced-http": {
       "PACKAGE_NAME": "com.dongwha.test02"
     },
-    "cordova-plugin-advanced-http": {
+    "cordova-plugin-splashscreen": {
       "PACKAGE_NAME": "com.dongwha.test02"
     }
   },

@@ -18,14 +18,6 @@ module.exports = [
     ]
   },
   {
-    "id": "cordova-plugin-splashscreen.SplashScreen",
-    "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
-    "pluginId": "cordova-plugin-splashscreen",
-    "clobbers": [
-      "navigator.splashscreen"
-    ]
-  },
-  {
     "id": "cordova-plugin-file.DirectoryEntry",
     "file": "plugins/cordova-plugin-file/www/DirectoryEntry.js",
     "pluginId": "cordova-plugin-file",
@@ -240,6 +232,14 @@ module.exports = [
     "clobbers": [
       "cordova.plugin.http"
     ]
+  },
+  {
+    "id": "cordova-plugin-splashscreen.SplashScreen",
+    "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+    "pluginId": "cordova-plugin-splashscreen",
+    "clobbers": [
+      "navigator.splashscreen"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -247,9 +247,9 @@ module.exports.metadata =
 {
   "cordova-plugin-network-information": "2.0.1",
   "cordova-plugin-whitelist": "1.3.3",
-  "cordova-plugin-splashscreen": "5.0.2",
   "cordova-plugin-file": "6.0.1",
-  "cordova-plugin-advanced-http": "1.10.0"
+  "cordova-plugin-advanced-http": "1.10.0",
+  "cordova-plugin-splashscreen": "5.0.2"
 };
 // BOTTOM OF METADATA
 });
