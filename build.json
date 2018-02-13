@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "cordova-debug.keystore",
+            "storePassword": "!dongwha01",
+            "alias": "cordova-debug",
+            "password": "!dongwha01",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "cordova-debug.keystore",
+            "storePassword": "!dongwha01",
+            "alias": "cordova-debug",
+            "password": "!dongwha01",
+            "keystoreType": ""
+        }
+    }
+}
