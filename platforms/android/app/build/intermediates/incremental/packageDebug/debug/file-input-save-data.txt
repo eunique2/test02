@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Feb 14 15:20:43 KST 2018
+#Wed Feb 14 16:56:09 KST 2018
 5.base=/Users/dongwha/Documents/cordova_workspace/test02/platforms/android/app/build/intermediates/assets/debug
 42.base=/Users/dongwha/Documents/cordova_workspace/test02/platforms/android/app/build/intermediates/assets/debug
 32.set=ANDROID_RESOURCE
