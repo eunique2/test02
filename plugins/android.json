@@ -13,13 +13,13 @@
     "cordova-plugin-network-information": {
       "PACKAGE_NAME": "com.dongwha.test02"
     },
-    "cordova-plugin-advanced-http": {
-      "PACKAGE_NAME": "com.dongwha.test02"
-    },
     "cordova-plugin-console": {
       "PACKAGE_NAME": "com.dongwha.test02"
     },
     "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.dongwha.test02"
+    },
+    "cordova-plugin-http": {
       "PACKAGE_NAME": "com.dongwha.test02"
     }
   },
